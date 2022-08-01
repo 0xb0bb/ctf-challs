@@ -1,2 +1,9 @@
-# ctf-challs
-A subset of CTF challenges I have made over the years.
+# CTF Challenges
+
+Here is a collection of some of the CTF challenges I have released over
+the years.
+
+## Author
+
+[b0bb](https://twitter.com/0xb0bb)
+
