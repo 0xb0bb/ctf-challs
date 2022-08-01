@@ -1,0 +1,10 @@
+version: '2'
+services:
+  qrona:
+    build:
+      context: .
+    working_dir: /home/ctf
+    container_name: qrona
+    ports:
+      - "1337:1337"
+    entrypoint: "/usr/sbin/xinetd -dontfork"
