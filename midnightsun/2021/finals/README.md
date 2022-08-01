@@ -9,6 +9,9 @@ never returns. The purpose of the challenge is to receive a `base64`
 encoded image and then `zbarimg` is run on it. The results are output
 via `stdout`.
 
+[ptrYudai](https://twitter.com/ptrYudai) was kind enough to honour this challenge in his [best pwnables of 2021](https://ptr-yudai.hatenablog.com/entry/2021/12/06/001931#qrona---%E5%89%B5%E9%80%A0%E5%8A%9B%E8%B3%9E)
+list where it received the "creativity award".
+
 ## Exploitation
 
 You can exploit with the script in `solution/solve.py` it will run
